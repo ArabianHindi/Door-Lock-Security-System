@@ -1,4 +1,4 @@
-# Door_Security_System_AVR
+# Door Lock Security System
 
 Implemented via **AVR atmega32** MCU with **8 MHz** internal clock frequency.
 
